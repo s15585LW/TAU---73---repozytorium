@@ -1,0 +1,5 @@
+Testy zostały wykonane na podstawie aplikacji dostępnej pod linkiem:
+https://github.com/Apress/pro-apache-jmeter/tree/master/digital-toys-web-application
+
+Pobieramy aplikację a następnie uruchamiamy startDt.bat , teraz możemy otworzyć przeglądarkę i wejść na adres http://localhost:8080/ .
+
