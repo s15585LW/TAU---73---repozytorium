@@ -39,7 +39,7 @@ public class RegistryFormValidationTest {
         driver.get("http://automationpractice.com/index.php?controller=authentication&back=my-account");
         driver.findElement(By.id("email_create")).click();
         driver.findElement(By.id("email_create")).clear();
-        driver.findElement(By.id("email_create")).sendKeys("kwszeborowskitest"+numberTest+"@wp.pl");
+        driver.findElement(By.id("email_create")).sendKeys("lukWalenski"+numberTest+"@wp.pl");
         driver.findElement(By.xpath("(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::span[1]")).click();
     }
 
